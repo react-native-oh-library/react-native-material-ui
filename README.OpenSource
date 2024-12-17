@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-material-ui",
+        "License": "MIT",
+        "License File": "https://github.com/xotahal/react-native-material-ui/blob/master/LICENSE",
+        "Version Number": "1.30.1",
+		"Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/xotahal/react-native-material-ui",
+        "Description": "React Native Material Design Components"
+    }
+]
